@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jenkins CI/CD Deployment</title>
+    <title>Jenkins  Deployment</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap">
     <style>
         * {
@@ -76,6 +76,7 @@
     </style>
 </head>
 <body>
+   <h1 class="first-version">&#x1F680; This is the first version! &#x1F680;</h1>
    <h1 class="first-version">&#x1F680; This is the first version! &#x1F680;</h1>
     <div class="container">
         <h1>&#x1F680; Jenkins CI/CD Deployment Successful! &#x1F680;</h1>
